@@ -8,3 +8,6 @@
 ## 版本
 - google script : 可以掛定時任務，每日自動簽到
 - python : 適合不喜歡 Google 服務的玩家使用
+
+## 警告
+**cookie 切勿外流**
